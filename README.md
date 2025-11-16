@@ -4,7 +4,7 @@
 
 This project implements a **vehicle detection model** using the YOLOv8 architecture, trained on the Kaggle dataset: **Vehicle Detection — YOLO v8 by alkan erturan**
 
-The goal is to **detect** and **localize** vehicles such as cars, trucks, buses and motorbikes by drawing **bounding boxes** and **class labels** around them.
+The goal is to **recognize** and **localize** vehicles such as cars, trucks, buses and motorbikes by drawing **bounding boxes** and **class labels** around them.
 
 
 ## ⚙️ Training the model 
